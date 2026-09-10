@@ -16,6 +16,8 @@
 
 当前用户包版本为 `0.1.0`；对应的模型比较基准为 `v0.2.0`。版本语义与后续环节的规划见 [开发者说明](developer-mode/README.md)。
 
+开发者模式还提供可安装的 Codex skills：`video2md-asr`、`video2md-revise`、`video2md-structure` 和总控 `video2md`。它们的定义位于 [`skills/`](skills/)；目前只有 ASR 具备本地 CLI 实现，后两环节定义了稳定工件契约，待实现时不改变既有 ASR 输出。
+
 ## 当前工作流边界
 
 1. 本仓库当前完成：语音转文字（ASR）。

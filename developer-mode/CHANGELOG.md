@@ -1,5 +1,10 @@
 # 版本记录
 
+## 开发者工具 0.1.1 — 2026-09-10
+
+- 新增可组合的 Codex skills：`video2md-asr`、`video2md-revise`、`video2md-structure` 与总控 `video2md`。
+- ASR skill 对接已验证的本地 CLI；修订、结构化 skill 固化 `transcript.json` → `revised.json` → `document.md` 的工件契约。
+
 ## 用户包 0.1.0 — 2026-09-10
 
 - 发布第一环节“本地视频/音频 → 中文初稿”。

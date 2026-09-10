@@ -32,3 +32,10 @@
 - `nano`：质量优先，适合正式文稿前的首轮转写；对 6 GiB 显存可运行，但更接近资源上限。
 
 不在用户包中保留 Whisper、Qwen 等基线。它们的评测结果在基准目录中，以免把用户安装和研发试验耦合。
+
+## Codex skill 映射
+
+- `video2md-asr`：调用本模块的实际 CLI，输出 ASR 工件。
+- `video2md-revise`：消费 `transcript.json`，输出保留时间锚点的 `revised.json`。
+- `video2md-structure`：消费修订稿，输出 `document.md`。
+- `video2md`：按需串联前三者；用户只要求转写时在 ASR 停止。
