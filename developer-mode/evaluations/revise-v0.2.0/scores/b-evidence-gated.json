@@ -1,0 +1,134 @@
+{
+  "before": {
+    "exact_caption_matches": 4,
+    "caption_alignment_edits": 4,
+    "caption_reference_characters": 198,
+    "caption_sample_disagreement_ratio": 0.020202020202020204,
+    "samples": [
+      {
+        "time": 15.0,
+        "reference": "卡斯特罗说需要一个\"好经济学家\"来接任古巴国家银行行长半睡半醒的格瓦拉举了手",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "卡斯特罗说需要一个好经济学家来接任古巴国家银行行长半睡半醒的格瓦拉举了手"
+      },
+      {
+        "time": 194.99,
+        "reference": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联"
+      },
+      {
+        "time": 314.98,
+        "reference": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清"
+      },
+      {
+        "time": 524.96,
+        "reference": "另一方面忠实反映真实价值？",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "另一方面忠实反映真实价值"
+      },
+      {
+        "time": 674.95,
+        "reference": "声称BFS存在被伪装的间接信贷且削弱了经济管控力",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "声称dfs存在被伪装的间接信贷且削弱了经济管控力"
+      },
+      {
+        "time": 704.95,
+        "reference": "格瓦拉则指出该观点陷入资本主义经济表象的拜物教误区",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "格瓦拉拉则指出该观点陷入资本主义经济表象的拜物教误区"
+      },
+      {
+        "time": 764.95,
+        "reference": "实时监控生产成本、试点集体社会激励机制",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "实施监控生产成本试点集体社会激励机制"
+      },
+      {
+        "time": 824.94,
+        "reference": "他与AFS派系的核心分歧在古巴任职期间未能彻底化解",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "它与afs派系的核心分歧在古巴任职期间未能彻底化解"
+      }
+    ]
+  },
+  "after": {
+    "exact_caption_matches": 5,
+    "caption_alignment_edits": 3,
+    "caption_reference_characters": 198,
+    "caption_sample_disagreement_ratio": 0.015151515151515152,
+    "samples": [
+      {
+        "time": 15.0,
+        "reference": "卡斯特罗说需要一个\"好经济学家\"来接任古巴国家银行行长半睡半醒的格瓦拉举了手",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "卡斯特罗说需要一个好经济学家来接任古巴国家银行行长半睡半醒的格瓦拉举了手"
+      },
+      {
+        "time": 194.99,
+        "reference": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联"
+      },
+      {
+        "time": 314.98,
+        "reference": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清"
+      },
+      {
+        "time": 524.96,
+        "reference": "另一方面忠实反映真实价值？",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "另一方面忠实反映真实价值"
+      },
+      {
+        "time": 674.95,
+        "reference": "声称BFS存在被伪装的间接信贷且削弱了经济管控力",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "声称dfs存在被伪装的间接信贷且削弱了经济管控力"
+      },
+      {
+        "time": 704.95,
+        "reference": "格瓦拉则指出该观点陷入资本主义经济表象的拜物教误区",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "格瓦拉则指出该观点陷入资本主义经济表象的拜物教误区"
+      },
+      {
+        "time": 764.95,
+        "reference": "实时监控生产成本、试点集体社会激励机制",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "实施监控生产成本试点集体社会激励机制"
+      },
+      {
+        "time": 824.94,
+        "reference": "他与AFS派系的核心分歧在古巴任职期间未能彻底化解",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "它与afs派系的核心分歧在古巴任职期间未能彻底化解"
+      }
+    ]
+  },
+  "delta": {
+    "exact_caption_matches": 1,
+    "caption_alignment_edits": -1
+  }
+}

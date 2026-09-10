@@ -1,0 +1,414 @@
+{
+  "before": {
+    "exact_caption_matches": 22,
+    "caption_alignment_edits": 7,
+    "caption_reference_characters": 628,
+    "caption_sample_disagreement_ratio": 0.011146496815286623,
+    "samples": [
+      {
+        "time": 15.0,
+        "reference": "卡斯特罗说需要一个\"好经济学家\"来接任古巴国家银行行长半睡半醒的格瓦拉举了手",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "卡斯特罗说需要一个好经济学家来接任古巴国家银行行长半睡半醒的格瓦拉举了手"
+      },
+      {
+        "time": 45.0,
+        "reference": "一开始他赞扬南斯拉夫取得了很大的发展",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "一开始他赞扬南斯拉夫取得了很大的发展"
+      },
+      {
+        "time": 74.99,
+        "reference": "美国主导贸易",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "美国主导贸易"
+      },
+      {
+        "time": 104.99,
+        "reference": "以此应对美国即将实施的出口禁运",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "以此应对美国即将实施的出口禁运"
+      },
+      {
+        "time": 134.99,
+        "reference": "而是它利用了管理原则并将其适应于计划经济",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "而是它利用了管理原则并将其适用于计划经济"
+      },
+      {
+        "time": 194.99,
+        "reference": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联"
+      },
+      {
+        "time": 224.98,
+        "reference": "所以这场辩论最显著的矛盾就是价值规律在向社会主义过渡中究竟应该处于怎样的一个位置？",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "所以这场辩论最显著的矛盾就是价值规律在向社会主义过渡中究竟应该处于怎样的一个位置"
+      },
+      {
+        "time": 254.98,
+        "reference": "成立条件为商品具备使用价值、生产商品的劳动是符合社会平均生产力水平的社会必要劳动",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "成立条件为商品具备使用价值生产商品的劳动是符合社会平均生产力水平的社会必要劳动"
+      },
+      {
+        "time": 284.98,
+        "reference": "马克思设想的共产主义建立在生产力高度发达的基础上",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "马克思设想的共产主义建立在生产力高度发达的基础上"
+      },
+      {
+        "time": 314.98,
+        "reference": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清"
+      },
+      {
+        "time": 344.98,
+        "reference": "没有稳定的货币，就没有严格的规划",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "没有稳定的货币就没有严格的规划"
+      },
+      {
+        "time": 374.97,
+        "reference": "并且继而认为国有企业之间产品的转移并不构成商品",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "并且继而认为国有企业之间产品的转移并不构成商品"
+      },
+      {
+        "time": 404.97,
+        "reference": "如果工厂之间的商品进行交换那么最终会导致向资本主义的倒退",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "如果工厂之间的商品进行交换那么最终会导致向资本主义的倒退"
+      },
+      {
+        "time": 434.97,
+        "reference": "同时指出社会主义制度下依然存在客观经济规律",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "同时指出社会主义制度下依然存在客观经济规律"
+      },
+      {
+        "time": 464.97,
+        "reference": "有必要在共产主义社会建设过程中发展和利用价值规律以及货币和商业关系",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "有必要在共产主义社会建设过程中发展和利用价值规律以及货币和商业关系"
+      },
+      {
+        "time": 494.96,
+        "reference": "同时也要逐步消除旧范畴赖以存在的物质利益条件",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "同时也要逐步消除旧范畴赖以存在的物质利益条件"
+      },
+      {
+        "time": 524.96,
+        "reference": "另一方面忠实反映真实价值？",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "另一方面忠实反映真实价值"
+      },
+      {
+        "time": 554.96,
+        "reference": "因此我们可以说中央计划是社会主义社会的特征",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "因此我们可以说中央计划是社会主义社会的特征"
+      },
+      {
+        "time": 584.96,
+        "reference": "由国家机构统筹分析管控经济",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "由国家机构统筹分析管控经济"
+      },
+      {
+        "time": 644.95,
+        "reference": "财政部长阿尔瓦雷斯则坚定支持格瓦拉的BFS体系",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "财政部长阿尔瓦雷斯则坚定支持格瓦拉的bfs体系"
+      },
+      {
+        "time": 674.95,
+        "reference": "声称BFS存在被伪装的间接信贷且削弱了经济管控力",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "声称dfs存在被伪装的间接信贷且削弱了经济管控力"
+      },
+      {
+        "time": 704.95,
+        "reference": "格瓦拉则指出该观点陷入资本主义经济表象的拜物教误区",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "格瓦拉拉则指出该观点陷入资本主义经济表象的拜物教误区"
+      },
+      {
+        "time": 734.95,
+        "reference": "盈余生产资料由官方统一调配",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "盈余生产资料由官方统一调配"
+      },
+      {
+        "time": 764.95,
+        "reference": "实时监控生产成本、试点集体社会激励机制",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "实施监控生产成本试点集体社会激励机制"
+      },
+      {
+        "time": 794.94,
+        "reference": "进口原材料参照国际市价核定（附加运输成本）",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "进口原材料参照国际市价核定附加运输成本"
+      },
+      {
+        "time": 824.94,
+        "reference": "他与AFS派系的核心分歧在古巴任职期间未能彻底化解",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "它与afs派系的核心分歧在古巴任职期间未能彻底化解"
+      },
+      {
+        "time": 854.94,
+        "reference": "社会主义国家在某种程度上是帝国主义剥削的同谋",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "社会主义国家在某种程度上是帝国主义剥削的同谋"
+      },
+      {
+        "time": 884.94,
+        "reference": "在出走前他写道：如何实现工人参与？",
+        "edits": 2,
+        "exact": false,
+        "matched_normalized_text": "在著作前他写道如何实现工人参与"
+      }
+    ]
+  },
+  "after": {
+    "exact_caption_matches": 12,
+    "caption_alignment_edits": 43,
+    "caption_reference_characters": 628,
+    "caption_sample_disagreement_ratio": 0.06847133757961783,
+    "samples": [
+      {
+        "time": 15.0,
+        "reference": "卡斯特罗说需要一个\"好经济学家\"来接任古巴国家银行行长半睡半醒的格瓦拉举了手",
+        "edits": 2,
+        "exact": false,
+        "matched_normalized_text": "卡斯特罗说需要一位好经济学家接任古巴国家银行行长半睡半醒的格瓦拉举了手"
+      },
+      {
+        "time": 45.0,
+        "reference": "一开始他赞扬南斯拉夫取得了很大的发展",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "一开始他赞扬南斯拉夫取得了很大发展"
+      },
+      {
+        "time": 74.99,
+        "reference": "美国主导贸易",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "美国主导贸易"
+      },
+      {
+        "time": 104.99,
+        "reference": "以此应对美国即将实施的出口禁运",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "以应对美国即将实施的出口禁运"
+      },
+      {
+        "time": 134.99,
+        "reference": "而是它利用了管理原则并将其适应于计划经济",
+        "edits": 2,
+        "exact": false,
+        "matched_normalized_text": "而是说它利用了管理原则并将其适用于计划经济"
+      },
+      {
+        "time": 194.99,
+        "reference": "随着辩论的不断展开格瓦拉开始在讨论会上开始批评苏联",
+        "edits": 3,
+        "exact": false,
+        "matched_normalized_text": "随着辩论不断展开格瓦拉开始在讨论会上批评苏联"
+      },
+      {
+        "time": 224.98,
+        "reference": "所以这场辩论最显著的矛盾就是价值规律在向社会主义过渡中究竟应该处于怎样的一个位置？",
+        "edits": 6,
+        "exact": false,
+        "matched_normalized_text": "因此这场辩论最显著的矛盾是价值规律在向社会主义过渡中究竟应处于怎样的位置"
+      },
+      {
+        "time": 254.98,
+        "reference": "成立条件为商品具备使用价值、生产商品的劳动是符合社会平均生产力水平的社会必要劳动",
+        "edits": 4,
+        "exact": false,
+        "matched_normalized_text": "成立条件是商品具有使用价值生产商品的劳动符合社会平均生产力水平即社会必要劳动"
+      },
+      {
+        "time": 284.98,
+        "reference": "马克思设想的共产主义建立在生产力高度发达的基础上",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "马克思设想的共产主义建立在生产力高度发达的基础上"
+      },
+      {
+        "time": 314.98,
+        "reference": "而生产资料社会化和分配制度给市场引入的变化阻碍了对其运行的直接澄清",
+        "edits": 3,
+        "exact": false,
+        "matched_normalized_text": "场生产资料社会化和分配制度给市场带来的变化阻碍了对其运行的直接澄清"
+      },
+      {
+        "time": 344.98,
+        "reference": "没有稳定的货币，就没有严格的规划",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "没有稳定的货币就没有严格的规划"
+      },
+      {
+        "time": 374.97,
+        "reference": "并且继而认为国有企业之间产品的转移并不构成商品",
+        "edits": 3,
+        "exact": false,
+        "matched_normalized_text": "投资继而他认为国有企业之间产品的转移并不构成商品"
+      },
+      {
+        "time": 404.97,
+        "reference": "如果工厂之间的商品进行交换那么最终会导致向资本主义的倒退",
+        "edits": 7,
+        "exact": false,
+        "matched_normalized_text": "如果工厂之间进行商品交换最终会导致向资本主义倒退"
+      },
+      {
+        "time": 434.97,
+        "reference": "同时指出社会主义制度下依然存在客观经济规律",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "同时指出社会主义制度下依然存在客观经济规律"
+      },
+      {
+        "time": 464.97,
+        "reference": "有必要在共产主义社会建设过程中发展和利用价值规律以及货币和商业关系",
+        "edits": 2,
+        "exact": false,
+        "matched_normalized_text": "有必要在共产主义社会建设过程中发展和利用价值规律货币和商业关系"
+      },
+      {
+        "time": 494.96,
+        "reference": "同时也要逐步消除旧范畴赖以存在的物质利益条件",
+        "edits": 4,
+        "exact": false,
+        "matched_normalized_text": "同时逐步消除这些旧范畴赖以存在的物质利益条件"
+      },
+      {
+        "time": 524.96,
+        "reference": "另一方面忠实反映真实价值？",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "另一方面又忠实反映真实价值"
+      },
+      {
+        "time": 554.96,
+        "reference": "因此我们可以说中央计划是社会主义社会的特征",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "因此我们可以说中央计划是社会主义社会的特征"
+      },
+      {
+        "time": 584.96,
+        "reference": "由国家机构统筹分析管控经济",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "由国家机构统筹分析和管控经济"
+      },
+      {
+        "time": 644.95,
+        "reference": "财政部长阿尔瓦雷斯则坚定支持格瓦拉的BFS体系",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "财政部长阿尔瓦雷斯则坚定支持格瓦拉的bfs体系"
+      },
+      {
+        "time": 674.95,
+        "reference": "声称BFS存在被伪装的间接信贷且削弱了经济管控力",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "声称bfs存在被伪装的间接信贷且削弱了经济管控力"
+      },
+      {
+        "time": 704.95,
+        "reference": "格瓦拉则指出该观点陷入资本主义经济表象的拜物教误区",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "格瓦拉则指出该观点陷入资本主义经济表象的拜物教误区"
+      },
+      {
+        "time": 734.95,
+        "reference": "盈余生产资料由官方统一调配",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "盈余生产资料由官方统一调配"
+      },
+      {
+        "time": 764.95,
+        "reference": "实时监控生产成本、试点集体社会激励机制",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "实时监控生产成本试点集体社会激励机制"
+      },
+      {
+        "time": 794.94,
+        "reference": "进口原材料参照国际市价核定（附加运输成本）",
+        "edits": 1,
+        "exact": false,
+        "matched_normalized_text": "进口原材料参照国际市价核定并附加运输成本"
+      },
+      {
+        "time": 824.94,
+        "reference": "他与AFS派系的核心分歧在古巴任职期间未能彻底化解",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "他与afs派系的核心分歧在古巴任职期间未能彻底化解"
+      },
+      {
+        "time": 854.94,
+        "reference": "社会主义国家在某种程度上是帝国主义剥削的同谋",
+        "edits": 0,
+        "exact": true,
+        "matched_normalized_text": "社会主义国家在某种程度上是帝国主义剥削的同谋"
+      },
+      {
+        "time": 884.94,
+        "reference": "在出走前他写道：如何实现工人参与？",
+        "edits": 2,
+        "exact": false,
+        "matched_normalized_text": "在著作前他写道如何实现工人参与"
+      }
+    ]
+  },
+  "delta": {
+    "exact_caption_matches": -10,
+    "caption_alignment_edits": 36
+  }
+}

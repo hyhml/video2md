@@ -7,6 +7,8 @@
 - `CHANGELOG.md`：仓库和用户包的版本演进。
 - `architecture.md`：各工作流环节的边界与当前 ASR 接口。
 - `benchmark/v0.2.0/`：六模型统一测试的协议、结果摘要和模型指纹。
+- `evaluations/revise-v0.1.0/`：第二环节的原稿/修订稿对照、失败案例与最小修订基线。
+- `evaluations/revise-v0.2.0/`：同一执行模型下的多提示词压力测试、字幕对照和语义改动审计。
 
 ## 发布规则
 
