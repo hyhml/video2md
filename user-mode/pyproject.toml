@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "video2md-asr"
+version = "0.1.0"
+description = "Local Chinese ASR stage for video2md"
+requires-python = ">=3.10"
+dependencies = [
+  "funasr==1.4.14",
+  "modelscope==1.40.0",
+  "numpy==1.26.4",
+  "soundfile==0.14.0",
+  "torch==2.9.1",
+  "torchaudio==2.9.1",
+]
+
+[project.scripts]
+video2md-asr = "video2md_asr.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

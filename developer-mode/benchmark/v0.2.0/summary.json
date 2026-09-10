@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "benchmark_version": "0.2.0",
+  "date": "2026-09-10",
+  "hardware": "NVIDIA RTX 3060 Laptop GPU, 6 GiB",
+  "dataset": {
+    "audio_seconds": 899.9358125,
+    "sample_rate": 16000,
+    "video_sha256": "8c28abb4e8b864ed799936d05389cdafaefd47bf0e0f9451b6b4304d982b42dd",
+    "reference_samples": 28,
+    "reference_characters_normalized": 628
+  },
+  "profile": {
+    "chunk_seconds": 30,
+    "chunk_overlap_seconds": 0,
+    "language": "zh",
+    "hotwords": null,
+    "external_vad": false,
+    "timing_excludes": ["model_download", "model_load", "warmup", "input_load", "final_export"]
+  },
+  "results": [
+    {"id": "whisper-medium", "repository": "Systran/faster-whisper-medium", "revision": "08e178d48790749d25932bbc082711ddcfdfbc4f", "weight_sha256": "9b45e1009dcc4ab601eff815b61d80e60ce3fd8c74c1a14f4a282258286b51ae", "transcribe_seconds": 136.388, "speedup_vs_realtime": 6.598, "exact_caption_matches": 15, "caption_alignment_edits": 22, "peak_gpu_mib": 1528},
+    {"id": "whisper-large-v3", "repository": "Systran/faster-whisper-large-v3", "revision": "edaa852ec7e145841d8ffdb056a99866b5f0a478", "weight_sha256": "69f74147e3334731bc3a76048724833325d2ec74642fb52620eda87352e3d4f1", "transcribe_seconds": 200.284, "speedup_vs_realtime": 4.493, "exact_caption_matches": 19, "caption_alignment_edits": 16, "peak_gpu_mib": 2498},
+    {"id": "whisper-turbo", "repository": "mobiuslabsgmbh/faster-whisper-large-v3-turbo", "revision": "0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf", "weight_sha256": "e76620f83d5f5b69efd3d87e3dc180c1bd21df9fbebacfd4335e5e1efcc018da", "transcribe_seconds": 66.083, "speedup_vs_realtime": 13.618, "exact_caption_matches": 15, "caption_alignment_edits": 21, "peak_gpu_mib": 1391},
+    {"id": "qwen3-asr-0.6b", "repository": "Qwen/Qwen3-ASR-0.6B", "revision": "5eb144179a02acc5e5ba31e748d22b0cf3e303b0", "weight_sha256": "79d6cbd4c98c7bbffe9db2edac07f56cd6637d0d5944b27f6c2b8353840323ea", "transcribe_seconds": 145.319, "speedup_vs_realtime": 6.193, "exact_caption_matches": 19, "caption_alignment_edits": 12, "peak_gpu_mib": 2212},
+    {"id": "fun-asr-nano-2512", "repository": "FunAudioLLM/Fun-ASR-Nano-2512", "revision": "master downloaded 2026-09-10; pinned by weight SHA-256", "weight_sha256": "81fec8616083c69377f3ceef36aba3655660ee0ca69a5d4a1e9810cd340ca499", "transcribe_seconds": 143.627, "speedup_vs_realtime": 6.266, "exact_caption_matches": 22, "caption_alignment_edits": 7, "peak_gpu_mib": 3960},
+    {"id": "paraformer-zh", "repository": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch", "revision": "master downloaded 2026-09-10; pinned by weight SHA-256", "weight_sha256": "fd7c1c6fa7f499377d238b3f3790eb2f6f16318a0e33e33ae50936725f4d8388", "transcribe_seconds": 12.578, "speedup_vs_realtime": 71.546, "exact_caption_matches": 18, "caption_alignment_edits": 16, "peak_gpu_mib": 1210}
+  ]
+}
